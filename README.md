@@ -12,7 +12,7 @@ and created tutorials, repos, and onboarding guides for communities across Web3 
 - Lead Support for a Fannie Mae project
 - Building **hands-on labs and repos** for AI/LLMs, LangChain, and RAG systems.  
 - Creating **educational content** for full-stack and mobile development (Java, React, Android Automotive).  
-- Exploring **blockchain ecosystems**: DeFi liquidity provision, NFTs, Solidity basics.  
+- Exploring **blockchain ecosystems**: DeFi liquidity provision, stable-coins, Solidity basics, community, metas, etc.  
 
 ## 🌱 Currently learning
 - Advanced **developer relations & advocacy** strategies.  
