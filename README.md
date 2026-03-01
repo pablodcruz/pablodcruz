@@ -1,60 +1,94 @@
-# Hi there 👋 I'm Pablo De La Cruz
+# USER.md — About Your Human 👋
 
-🚀 Technical Trainer • Full-Stack Engineer • AI, Data & Web3 Explorer
+_Learn about the person you're helping. Update this as you go._
 
-I design and share resources that help developers adopt **AI, cloud, data, and blockchain** technologies.
-Over the years, I’ve mentored 400+ engineers, built curricula for enterprise training programs,
-and created tutorials, repos, and onboarding guides for communities across Web3, DeFi, and **Data Engineering**.
-
----
-
-## 🔭 What I’m working on
-
-* Training **Data Warehousing and Cloud Analytics** — PostgreSQL, BigQuery, AWS, GCP, and Snowflake.
-* Lead Support for a Fannie Mae project (Summer 2025)
-* Building **hands-on labs and repos** for AI/LLMs, LangChain, RAG systems, and **ETL/ELT pipelines**.
-* Creating **educational content** for full-stack and mobile development (Java, React, Android Automotive).
-* Exploring **blockchain ecosystems**: DeFi liquidity provision, stable-coins, Solidity basics, community, metas, etc.
+- **Name:** Pablo De La Cruz
+- **Timezone:** America/New_York
+- **Notes:** Technical Trainer • Full-Stack Engineer • AI, Data & Web3 Advocate
 
 ---
 
-## 🌱 Currently learning
+## 🧭 Profile
 
-* Advanced **developer relations & advocacy** strategies.
-* **Autonomous AI agents** and trustless infrastructure.
-* Ways to merge **AI + Web3 + Data + Cloud** for real-world adoption.
-* **Data modeling, schema design, and dimensional warehousing (Star, Snowflake, SCD)**.
-* Smirk vs Reverse-smirk vs Big Smile 😏
+Pablo designs and shares resources that help developers adopt **AI, cloud, data, and blockchain** technologies.
+
+He has mentored **400+ engineers**, built curricula for enterprise training programs, and created tutorials, repositories, and onboarding guides across **Web3, DeFi, and Data Engineering**.
 
 ---
 
-## 🤝 Looking to collaborate on
+## 🚀 Current Focus (Updated)
 
-* Open-source **AI and Data Education** projects.
-* **Data ingestion, warehousing, or ETL pipeline** demos using Python + PostgreSQL + BigQuery.
-* Web3 communities and decentralized data systems.
-* Tutorials, demos, or sample apps that help new developers get started with **LLMs, RAG, and DeFi**.
-
----
-
-## 💬 Ask me about
-
-* Designing **curricula and training programs** for engineers.
-* **Data Engineering fundamentals** — ingestion, transformation, and cloud storage design.
-* **Liquidity provisioning** and onboarding into DeFi/RWA/NFT ecosystems.
-* Making complex technical ideas **simple and accessible** for any audience.
+- Building **clanker site** as a public build journal and execution layer for **Clanker / OpenClaw** workflows
+- Website: https://clanker-site.vercel.app
+- Priorities:
+  - ⚡ Ship fast
+  - 📝 Document work publicly
+  - 🎥 Expand into YouTube & live workflow demos
 
 ---
 
-## 📫 How to reach me
+## 🛠️ Ongoing Work Themes
 
-* Email: **[pablo.de.la.cruz.pro@gmail.com](mailto:pablo.de.la.cruz.pro@gmail.com)**
-* GitHub: [pablodcruz](https://github.com/pablodcruz)
-* LinkedIn: [Pablo De La Cruz](https://www.linkedin.com/in/pdelac01/)
+- **Data Warehousing & Cloud Analytics**  
+  PostgreSQL, BigQuery, AWS, GCP, Snowflake
+- **Hands-on labs** for:
+  - AI / LLMs
+  - LangChain
+  - RAG systems
+  - ETL / ELT pipelines
+- **Educational content** for:
+  - Full-stack development (Java, React)
+  - Mobile & Android Automotive
+- **Blockchain ecosystems**:
+  - DeFi
+  - Stablecoins
+  - Solidity basics
+  - Community & strategy
 
 ---
 
-## ⚡ Fun fact
+## 🌱 Learning / Interests
 
-* I won the high school chess tournament without joining the chess club ♟️
-* I was the first Red Mage to get AF2 Hat on FFXI Kujata 👲
+- Developer relations & technical advocacy strategy
+- Autonomous AI agents & trustless infrastructure
+- Practical convergence of **AI + Web3 + Data + Cloud**
+- Data modeling & dimensional warehousing  
+  (Star schema, Snowflake schema, SCD)
+
+---
+
+## 🤝 Collaboration Interests
+
+- Open-source **AI & data education** projects
+- Data ingestion, warehousing, and ETL demos  
+  (Python + PostgreSQL + BigQuery)
+- Web3 communities & decentralized data systems
+- Tutorials and sample apps for:
+  - LLMs
+  - RAG
+  - DeFi onboarding
+
+---
+
+## 💬 Ask About
+
+- Designing **engineering curricula & training programs**
+- **Data engineering fundamentals**  
+  (ingestion, transformation, storage design)
+- DeFi onboarding & liquidity concepts
+- Making complex technical ideas **simple and accessible**
+
+---
+
+## 📫 Contact
+
+- 📧 Email: pablo.de.la.cruz.pro@gmail.com
+- 💻 GitHub: https://github.com/pablodcruz
+- 🔗 LinkedIn: https://www.linkedin.com/in/pdelac01/
+
+---
+
+## ⚡ Fun Facts
+
+- Won a high school chess tournament without joining the chess club ♟️
+- First Red Mage to get AF2 Hat on FFXI Kujata 👲
