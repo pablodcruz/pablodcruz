@@ -1,10 +1,6 @@
-# USER.md — About Your Human 👋
-
-_Learn about the person you're helping. Update this as you go._
-
 - **Name:** Pablo De La Cruz
 - **Timezone:** America/New_York
-- **Notes:** Technical Trainer • Full-Stack Engineer • AI, Data & Web3 Advocate
+- **Notes:** Technical Trainer • Full-Stack Engineer • AI, Data Advocate
 
 ---
 
@@ -19,7 +15,6 @@ He has mentored **400+ engineers**, built curricula for enterprise training prog
 ## 🚀 Current Focus (Updated)
 
 - Building **clanker site** as a public build journal and execution layer for **Clanker / OpenClaw** workflows
-- Website: https://clanker-site.vercel.app
 - Priorities:
   - ⚡ Ship fast
   - 📝 Document work publicly
@@ -39,11 +34,6 @@ He has mentored **400+ engineers**, built curricula for enterprise training prog
 - **Educational content** for:
   - Full-stack development (Java, React)
   - Mobile & Android Automotive
-- **Blockchain ecosystems**:
-  - DeFi
-  - Stablecoins
-  - Solidity basics
-  - Community & strategy
 
 ---
 
@@ -62,11 +52,10 @@ He has mentored **400+ engineers**, built curricula for enterprise training prog
 - Open-source **AI & data education** projects
 - Data ingestion, warehousing, and ETL demos  
   (Python + PostgreSQL + BigQuery)
-- Web3 communities & decentralized data systems
+- Decentralized data systems
 - Tutorials and sample apps for:
   - LLMs
   - RAG
-  - DeFi onboarding
 
 ---
 
@@ -75,7 +64,6 @@ He has mentored **400+ engineers**, built curricula for enterprise training prog
 - Designing **engineering curricula & training programs**
 - **Data engineering fundamentals**  
   (ingestion, transformation, storage design)
-- DeFi onboarding & liquidity concepts
 - Making complex technical ideas **simple and accessible**
 
 ---
