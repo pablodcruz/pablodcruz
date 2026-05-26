@@ -5,7 +5,7 @@
 - **Timezone:** America/New_York
 - **Notes:** Technical Trainer • Full-Stack Engineer • AI, Data Advocate
 - 
-I designs and shares resources that help developers adopt **AI, cloud, data, and blockchain** technologies.
+I design and share resources that help developers adopt **AI, cloud, data, and blockchain** technologies.
 
 I have mentored **400+ engineers**, built curricula for enterprise training programs, and created tutorials, repositories, and guides across **Fullstack, AI, mobile, and Data Engineering**.
 
