@@ -1,14 +1,14 @@
-- **Name:** Pablo De La Cruz
-- **Timezone:** America/New_York
-- **Notes:** Technical Trainer • Full-Stack Engineer • AI, Data Advocate
-
 ---
 
 ## 🧭 Profile
 
-Pablo designs and shares resources that help developers adopt **AI, cloud, data, and blockchain** technologies.
+- **Name:** Pablo De La Cruz
+- **Timezone:** America/New_York
+- **Notes:** Technical Trainer • Full-Stack Engineer • AI, Data Advocate
+- 
+I designs and shares resources that help developers adopt **AI, cloud, data, and blockchain** technologies.
 
-He has mentored **400+ engineers**, built curricula for enterprise training programs, and created tutorials, repositories, and onboarding guides across **Web3, DeFi, and Data Engineering**.
+I have mentored **400+ engineers**, built curricula for enterprise training programs, and created tutorials, repositories, and guides across **Fullstack, AI, mobile, and Data Engineering**.
 
 ---
 
