@@ -10,7 +10,7 @@ easier to inspect, test, operate, and teach.
 
 | Project | What it demonstrates |
 | --- | --- |
-| [Portfolio](https://github.com/pablodcruz/portfolio) | Selected projects, working principles, and public contact points |
+| [Portfolio](https://pablodcruz.github.io/portfolio/) | Selected projects, working principles, and public contact points |
 | [Canvas Native Lab](https://pablodcruz.github.io/html-in-canvas-lab/) | Experimental HTML-in-Canvas demos with progressive enhancement and accessibility |
 | [Data Analytics Learning Lab](https://github.com/pablodcruz/data-analytics-plugin-learning-lab) | Synthetic, source-backed analytics practice and decision-ready reporting |
 | [Data Engineering Workbench](https://github.com/pablodcruz/20260629-data-engineering) | Streaming, Spark, Airflow, Docker, and data-quality exercises |
