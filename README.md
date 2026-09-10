@@ -2,13 +2,15 @@
 
 **Global Master Trainer – OpenAI Enablement · AI Engineer · Developer Educator**
 
-I help developers, technical teams, partners, and business stakeholders turn emerging AI capabilities into practical skills, reliable workflows, and responsible operating patterns.
+I help developers, technical teams, partners, and business stakeholders identify where AI can create value, translate those opportunities into practical solutions, and build the skills and operating patterns needed to adopt them responsibly.
 
-I currently work as a **Global Master Trainer – OpenAI Enablement at Channel Partners Solutions**, delivering technical and role-based training for OpenAI customers and partners. My work spans foundational AI knowledge, OpenAI products and APIs, Codex, deployment, solution application, cybersecurity, partner enablement, and hands-on technical learning for both technical and nontechnical audiences.
+I currently work as a **Global Master Trainer – OpenAI Enablement at Channel Partners Solutions**, delivering technical and role-based training for OpenAI customers and partners. My work spans foundational AI knowledge, OpenAI products and APIs, Codex, deployment, solution application, cybersecurity, and partner enablement.
 
-Alongside enablement work, I build production-shaped prototypes across LLM applications, RAG, agentic workflows, data, and cloud—and turn the hard parts into clear demos, practical labs, evals, and reusable engineering patterns.
+A core part of that work is consultative: clarifying business problems and workflows, identifying stakeholders and success criteria, qualifying AI opportunities, framing credible first use cases, and helping teams think through deployment readiness, governance, controls, and responsible enterprise adoption.
 
-I've mentored 600+ engineers, with a focus on making emerging technology approachable without hiding its tradeoffs, failure modes, governance needs, or production boundaries.
+Alongside enablement and consultative work, I build production-shaped prototypes across LLM applications, RAG, agentic workflows, data, and cloud—and turn the hard parts into clear demos, practical labs, evals, and reusable engineering patterns.
+
+I've mentored 500+ engineers, with a focus on making emerging technology approachable without hiding its tradeoffs, failure modes, governance needs, or production boundaries.
 
 ## Selected work
 
@@ -28,7 +30,9 @@ I've mentored 600+ engineers, with a focus on making emerging technology approac
 
 ## How I work
 
+- **Qualify before prescribing:** understand the business problem, workflow, stakeholders, constraints, evidence, and definition of success before jumping to a technical solution.
 - **Start with the real workflow:** connect technical choices to a user, operating constraint, and measurable outcome.
+- **Translate between business and technical context:** help stakeholders move from a broad AI opportunity to a concrete, reviewable solution shape.
 - **Make trust inspectable:** expose sources, schemas, traces, evals, approval boundaries, and failure behavior.
 - **Teach the whole system:** turn architecture, deployment, governance, and debugging decisions into demos, labs, tests, rubrics, and reference implementations.
 - **Adapt to the audience:** move between engineers, customer-facing teams, administrators, partners, and business stakeholders without losing technical accuracy.
@@ -37,7 +41,8 @@ I've mentored 600+ engineers, with a focus on making emerging technology approac
 ## Current focus
 
 - OpenAI product, API, and Codex enablement
-- Enterprise AI adoption, deployment patterns, governance, and responsible use
+- AI opportunity discovery, workflow qualification, solution framing, and stakeholder alignment
+- Enterprise AI adoption, deployment readiness, governance, and responsible use
 - Eval-driven LLM applications, RAG, MCP, and tool-using agents
 - Human-in-the-loop workflows, safety boundaries, observability, and review controls
 - Technical facilitation, hands-on labs, solution storytelling, and partner enablement
