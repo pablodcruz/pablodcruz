@@ -1,15 +1,14 @@
 # Hi, I'm Pablo De La Cruz 👋
 
-**AI Engineer · Technical Trainer at Revature · Developer Educator**
+**Global Master Trainer – OpenAI Enablement · AI Engineer · Developer Educator**
 
-I help developers and teams turn AI capabilities into systems they can
-understand, evaluate, and adopt. I build production-shaped prototypes across
-LLM applications, RAG, agentic workflows, data, and cloud—and turn the hard
-parts into clear demos, practical labs, and reusable engineering patterns.
+I help developers, technical teams, partners, and business stakeholders turn emerging AI capabilities into practical skills, reliable workflows, and responsible operating patterns.
 
-I've mentored 500+ engineers, with a focus on making emerging technology
-approachable without hiding its tradeoffs, failure modes, or production
-boundaries.
+I currently work as a **Global Master Trainer – OpenAI Enablement at Channel Partners Solutions**, delivering technical and role-based training for OpenAI customers and partners. My work spans foundational AI knowledge, OpenAI products and APIs, Codex, deployment, solution application, cybersecurity, partner enablement, and hands-on technical learning for both technical and nontechnical audiences.
+
+Alongside enablement work, I build production-shaped prototypes across LLM applications, RAG, agentic workflows, data, and cloud—and turn the hard parts into clear demos, practical labs, evals, and reusable engineering patterns.
+
+I've mentored 600+ engineers, with a focus on making emerging technology approachable without hiding its tradeoffs, failure modes, governance needs, or production boundaries.
 
 ## Selected work
 
@@ -29,28 +28,26 @@ boundaries.
 
 ## How I work
 
-- **Start with the real workflow:** connect technical choices to a user,
-  operating constraint, and measurable outcome.
-- **Make trust inspectable:** expose sources, schemas, traces, evals, approval
-  boundaries, and failure behavior.
-- **Teach the whole system:** turn architecture and debugging decisions into
-  demos, labs, tests, rubrics, and reference implementations.
-- **Name the production boundary:** distinguish a compelling prototype from
-  what identity, privacy, observability, reliability, and scale still require.
+- **Start with the real workflow:** connect technical choices to a user, operating constraint, and measurable outcome.
+- **Make trust inspectable:** expose sources, schemas, traces, evals, approval boundaries, and failure behavior.
+- **Teach the whole system:** turn architecture, deployment, governance, and debugging decisions into demos, labs, tests, rubrics, and reference implementations.
+- **Adapt to the audience:** move between engineers, customer-facing teams, administrators, partners, and business stakeholders without losing technical accuracy.
+- **Name the production boundary:** distinguish a compelling prototype from what identity, privacy, observability, reliability, security, and scale still require.
 
 ## Current focus
 
-- AI developer enablement, solution architecture, and technical storytelling
-- Eval-driven LLM applications, RAG, and tool-using agents
-- Human-in-the-loop workflows, safety boundaries, and observability
-- Data engineering, analytics, and distributed systems
-- Developer tooling, technical curriculum, and accessible web experiences
+- OpenAI product, API, and Codex enablement
+- Enterprise AI adoption, deployment patterns, governance, and responsible use
+- Eval-driven LLM applications, RAG, MCP, and tool-using agents
+- Human-in-the-loop workflows, safety boundaries, observability, and review controls
+- Technical facilitation, hands-on labs, solution storytelling, and partner enablement
+- Developer tooling, data systems, and production-shaped AI prototypes
 
 ## Core technologies
 
-`Python` · `TypeScript` · `Java` · `OpenAI API` · `React` · `Next.js` ·
-`Spring Boot` · `PostgreSQL` · `BigQuery` · `PySpark` · `Airflow` · `Docker` ·
-`AWS` · `GCP`
+`Python` · `TypeScript` · `Java` · `OpenAI API` · `OpenAI Codex` · `MCP` ·
+`FastAPI` · `React` · `Next.js` · `Spring Boot` · `PostgreSQL` · `BigQuery` ·
+`PySpark` · `Airflow` · `Docker` · `GitHub` · `AWS` · `GCP`
 
 ## Connect
 
