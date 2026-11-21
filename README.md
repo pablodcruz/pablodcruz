@@ -16,6 +16,7 @@ I've mentored 500+ engineers, with a focus on making emerging technology approac
 
 | Project | What it demonstrates |
 | --- | --- |
+| [pabStack Work Log](https://pabstack-work.pablo-de-la-cruz-pro.chatgpt.site) | Public decisions, test evidence, and what reached review or deployment |
 | [AI Engineering Notebook](https://github.com/pablodcruz/ai-engineering-notebook) | A validated builder's notebook for LLM applications, RAG, agents, evals, integrations, and AI product design |
 | [FFXI AI Agents Lab](https://github.com/pablodcruz/ffxi-agents-server) | A local-first agent lab with bounded MCP control, fail-closed safety, observable actions, and [live YouTube gameplay streams](https://www.youtube.com/@ffxi-ai-agent/streams) |
 | [Support Triage Review Console](https://ai-engineering-notebook.vercel.app/support-triage) | A customer-facing AI workflow with bounded model calls, exact-schema validation, human review, safe failure handling, and layered cost controls |
